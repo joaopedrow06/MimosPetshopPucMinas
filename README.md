@@ -1,2 +1,2 @@
 # MimosPetshopPucMinas
-Repository made to save the test application made for Mimo's Petshopt
+Figma Link:https://github.com/joaopedrow06/MimosPetshopPucMinas/tree/main
